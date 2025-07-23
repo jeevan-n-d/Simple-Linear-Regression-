@@ -1,5 +1,8 @@
-# Simple-Linear-Regression-
-##use-of-the-jupiter-notebook//google-colab[or anyother  notebook environment
+# Simple Linear Regression
+
+## Use of the Jupyter Notebook
+
+You can use [Google Colab](https://colab.research.google.com/) or any other notebook environment for a better experience.
 
 This project demonstrates a simple linear regression model using Python and scikit-learn to predict a continuous target variable (e.g., salary or CTC) based on a single feature (e.g., years of experience).
 
